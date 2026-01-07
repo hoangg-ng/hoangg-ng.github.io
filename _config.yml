@@ -29,7 +29,7 @@ description: >-
   Email: hoangcs2306@gmail.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hoangcs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hoangg-ng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hoangcs2306
 github_username: hoangg-ng
 # google_scholar: 2_G-DxIAAAAJ
