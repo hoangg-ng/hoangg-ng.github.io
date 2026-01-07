@@ -1,82 +1,25 @@
-tuanngo:
-  first_name: Tuan Duc
-  last_name: Ngo
-  website: https://ngoductuanlhp.github.io/
+hoangnguyen:
+  first_name: Hoang
+  last_name: Minh Nguyen
+  website: https://hoangcs.github.io/
   is_me: true
-khoinguyen:
-  first_name: Khoi
-  last_name: Nguyen
-  website: https://www.khoinguyen.org/
-sonhua:
-  first_name: Binh-Son
-  last_name: Hua
-  website: https://sonhua.github.io/
-quanbui:
-  first_name: Minh-Quan
-  last_name: Viet Bui
-  website: https://scholar.google.com/citations?user=nNyPEwcAAAAJ
-dungnguyen:
-  first_name: Duc Dung
-  last_name: Nguyen
-  website: https://scholar.google.com/citations?user=xV7uHJgAAAAJ
-anhpham:
-  first_name: Hoang-Anh
-  last_name: Pham
-  website: https://scholar.google.com/citations?user=sGPFOAYAAAAJ
-phucnguyen:
-  first_name: Phuc
-  last_name: Nguyen
-  website: https://github.com/PhucNDA/
-chuanggan:
-  first_name: Chuang
-  last_name: Gan
-  website: https://people.csail.mit.edu/ganchuang/
-evangeloskalogerakis:
-  first_name: Evangelos
-  last_name: Kalogerakis
-  website: https://people.cs.umass.edu/~kalo/
-anhtran:
-  first_name: Anh
-  last_name: Tran
-  website: https://scholar.google.com/citations?user=FYZ5ODQAAAAJ&hl=en
-cuongpham:
-  first_name: Cuong
-  last_name: Pham
-  website: https://sites.google.com/view/cuongpham/home
-chaoyangwang:
-  first_name: Chaoyang
-  last_name: Wang
-  website: https://mightychaos.github.io/
-peiyezhuang:
-  first_name: Peiye
-  last_name: Zhuang
-  website: https://payeah.net/
-sergeytulyakov:
-  first_name: Sergey
-  last_name: Tulyakov
-  website: https://stulyakov.com/
-hsinyinglee:
-  first_name: Hsin-Ying
-  last_name: Lee
-  website: http://hsinyinglee.com/
-willimenapace:
-  first_name: Willi
-  last_name: Menapace
-  website: https://www.willimenapace.com/
-aliaksandrsiarohin:
-  first_name: Aliaksandr
-  last_name: Siarohin
-  website: https://aliaksandrsiarohin.github.io/aliaksandr-siarohin-website/
-michaelvasilkovsky:
-  first_name: Michael
-  last_name: Vasilkovsky
-  website: https://github.com/waytobehigh
-ivanskorokhodov:
-  first_name: Ivan
-  last_name: Skorokhodov
-  website: https://skor.sh/
-peterwonka:
-  first_name: Peter
-  last_name: Wonka
-  website: https://peterwonka.net/
-  
+toaitruong:
+  first_name: Toai
+  last_name: Truong Cong
+  # website: https://www.khoinguyen.org/
+datphan:
+  first_name: Dat 
+  last_name: Phan Trung
+  # website: https://datphan.github.io/
+duongvantu:
+  first_name: Tu
+  last_name: Duong Van
+  # website: https://duongvantu.github.io/
+huyhungnguyen:
+  first_name: Hung
+  last_name: Nguyen Huy
+  # website: https://huyhungnguyen.github.io/
+tantiennguyen:
+  first_name: Tien
+  last_name: Nguyen Tan
+  # website: https://tantiennguyen.github.io/

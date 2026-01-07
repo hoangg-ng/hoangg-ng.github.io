@@ -18,22 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tuan Duc Ngo
-name: Tuan Duc Ngo
-position: PhD Student 
-email: ductuan.ngo99@gmail.com
+title: Hoang Minh Nguyen
+name: Hoang Minh Nguyen
+position: Master Student 
+email: hoangcs2306@gmail.com
 description: >-
-  I am a third-year PhD student in Computer Science of [UMass Amherst](https://www.umass.edu/), USA, advised by [Prof. Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/) and [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/). 
-  I was a research intern at [Adobe Research](https://research.adobe.com/). Previously, I interned at [Snap Research](https://research.snap.com/), working with [Dr. Chaoyang Wang](https://mightychaos.github.io/) on 4D reconstruction.
-  Prior to my Ph.D., I was an AI Research Resident at [VinAI Research](https://vinai.io/), working closely with [Dr. Khoi Nguyen](https://www.khoinguyen.org/). I received my B.E. degree in Computer Engineering from the [Ho Chi Minh City University of Technology](https://hcmut.edu.vn/), Vietnam.
-
-  Email: ductuan.ngo99 (at) gmail (dot) com
+  I am a Master student in Management Information System of [KAIST](https://www.kaist.ac.kr/en/), Korea, advised by [Prof. Lee ChulHo](https://sites.google.com/view/irontigerlee-kaist).
+  Prior to my Master, I was a Research Assistant at [DCSELab](https://www.dcselab.edu.vn/). I received my B.E. degree in Computer Science from the [Ho Chi Minh City University of Technology](https://hcmut.edu.vn/), Vietnam.
+  
+  Email: hoangcs2306@gmail.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ngoductuanlhp.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: DTuanNgo
-github_username: ngoductuanlhp
-google_scholar: 2_G-DxIAAAAJ
+url: "http://hoangcs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: hoangcs2306
+github_username: hoangg-ng
+# google_scholar: 2_G-DxIAAAAJ
 # google_analytics: G-MFWSBLRKG0
 
 # Build settings
